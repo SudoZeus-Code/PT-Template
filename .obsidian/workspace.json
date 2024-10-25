@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "3f2e3a3a7c815278",
+    "type": "split",
+    "children": [
+      {
+        "id": "3af8ab8c3b0560a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18ca401b78c9d5c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing Path Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Testing Path Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0730842e5a8598cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7f1610b8a71ae39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9bd53c11d1ecf91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c6177d55e26b10c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fa799ae8109d9c37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "bf114da73ba06bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Creds"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e42146b7e11fa4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "89cc3baddace3a35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5eb03970bbfaf35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Engagement/Network/10.13.38.11/(1) Initial Access.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for (1) Initial Access"
+            }
+          },
+          {
+            "id": "4220a08c205f98aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Engagement/Network/10.13.38.11/(1) Initial Access.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from (1) Initial Access"
+            }
+          },
+          {
+            "id": "5d2e27e0971797b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "95d19bd7a36bf006",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Engagement/Network/10.13.38.11/(1) Initial Access.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of (1) Initial Access"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "18ca401b78c9d5c2",
+  "lastOpenFiles": [
+    "Flags.md",
+    "Creds.md",
+    "Engagement/Network/<>/(0) Scans/(0.1) DNS/Whois.md",
+    "Engagement/Network/<>/(0) Scans/(0.1) DNS/Sub Domains (ffuf).md",
+    "Engagement/Network/<>/(0) Scans/(0.1) DNS/Nslookup.md",
+    "Engagement/Network/<>/(0) Scans/(0.1) DNS/Domain Squating.md",
+    "Engagement/Network/<>/(0) Scans/(0.1) DNS/DNS Records.md",
+    "Engagement/Network/<>/(0) Scans/(0.1) DNS/Amass.md",
+    "Engagement/Network/<>/Vulnerabilities.md",
+    "Engagement/Network/<>/Notes.md",
+    "Engagement/Network/<>/(3) Persistence.md",
+    "Engagement/Network/<>/(2) Priv Esc.md",
+    "Engagement/Network/<>/(1) Initial Access.md",
+    "Engagement/Network/<>/(0) Scans/UDP.md",
+    "Engagement/Network/<>/(0) Scans/TCP.md",
+    "Engagement/Network/<>/(0) Scans/Nikto Scans.md",
+    "Engagement/Network/<>/(0) Scans/ffuf directory scans.md",
+    "Engagement/Network/<>/(0) Scans/(0.1) DNS",
+    "Testing Path Notes.md",
+    "Engagement/Network/HostnameTWO - IP/Notes.md",
+    "Engagement/Network/HostnameTWO - IP/(3) Persistence.md",
+    "Engagement/Network/HostnameTWO - IP/(0) Scans/Nikto Scans.md",
+    "Engagement/Network/HostnameTWO - IP/(0) Scans/Web Dir Scans.md",
+    "Engagement/Network/HostnameTWO - IP/(0) Scans/UDP.md",
+    "Engagement/Network/HostnameTWO - IP/(0) Scans/TCP.md",
+    "Engagement/Network/HostnameTWO - IP/(0) Scans",
+    "Engagement/Network/HostnameTWO - IP/(1) Initial Access.md",
+    "Engagement/Network/HostnameTWO - IP/(2) Priv Esc.md",
+    "Engagement/Network/HostnameTWO - IP",
+    "Engagement/Network/HostnameONE - IP/(0) Scans",
+    "Engagement/Network/HostnameONE - IP",
+    "Engagement/Network/Hostname - IP/1.1 Initial Access",
+    "Engagement/Network/<>/(0) Scans",
+    "Engagement/Network/<>",
+    "Engagement/Network",
+    "Engagement"
+  ]
+}
